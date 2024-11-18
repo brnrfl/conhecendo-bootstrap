@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+}
+@font-face {
+    font-family: Outfit;
+    src: url("../fonts/Outfit-VariableFont_wght.ttf");
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+}
